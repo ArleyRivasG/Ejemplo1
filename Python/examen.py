@@ -1,0 +1,15 @@
+a=2
+c=3
+b=10
+x=b**c
+print(x)
+z=x**a
+print(z)
+print(b**c**a)
+print(b**(c**a))
+"""
+aa=4
+ee=3
+dd=5
+print(aa*ee/dd)
+print(ee/dd*aa)"""
